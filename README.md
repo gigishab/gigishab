@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 <a href="#" target="_blank"> <img src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-09/ECX-1909_Hero_Kafka_600x400%402x-1.webp" alt="Kafka" height="60"/> </a>
 
+<a href="#" target="_blank"> <img src="https://editor.analyticsvidhya.com/uploads/526181_kPKoXmHBDmGthbah-0549A.png" alt="Hadoop" height="60"/> </a>
+
   
 <a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
