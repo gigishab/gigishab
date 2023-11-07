@@ -1,4 +1,3 @@
-#### BIO
 ### Hi there 👋
 
 <!--
@@ -15,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> <h1 align="center"> Hi There! I am a Data Engineer/Analyst  ðŸ‘‹ </h1> </div>
+<b>Hi, My name is Shabnam Thakur . I am a data professional.<b>
+
+<p></p>
+<div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
+
+<b>I have experience using these data analysis tools.<b>
+
 
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Pattern Recognition-green"> and <img src="https://img.shields.io/badge/Anomaly Identification-red">
 - 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset.
