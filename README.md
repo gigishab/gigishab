@@ -1,6 +1,6 @@
 <h1 align="center"> Hi There! Welcome to my GitHub! 🤗</h1>
 <div align="center"> <h1 align="center" > I am a Data Professional - Engineer/Analyst  ðŸ‘‹ </h1> </div>
-<b>Hi, My name is Shabnam Thakur . I am a data professional.<b>
+<b>Hi, My name is Shabnam Thakur . I'm a Data Professional  with over 2+ years of experience in Big Data, Hadoop, and AWS Cloud.<b>
 <p></p>
     
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
