@@ -22,6 +22,20 @@ Here are some ideas to get you started:
 
 <b>I have experience using these data analysis tools.<b>
 
+<p align="center">
+<a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-09/ECX-1909_Hero_Kafka_600x400%402x-1.webp" alt="Kafka" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://editor.analyticsvidhya.com/uploads/526181_kPKoXmHBDmGthbah-0549A.png" alt="Hadoop" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" height="60"/> </a>
+
+</p>
+
+
 
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Pattern Recognition-green"> and <img src="https://img.shields.io/badge/Anomaly Identification-red">
 - 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset.
