@@ -1,69 +1,76 @@
-### Hi there 👋
+
+<h1 align="center"> Welcome to my GitHub! 🤗</h1>
+<!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
+<h3 align="center">A passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" /></h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>  <a href="https://github.com/milaan9/milaan9/actions"><img src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg" alt="Build README"></a>  </p>
+<!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
+<!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
+
+
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+- 🔭 My area of interest is in Data Analytics & Visulizations.
+- 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
+- 👯 I’m looking to collaborate on *Open Sourced Projects* on **Machine Learning** and **Data Mining**
+- 💬 Ask me about **Machine Learning** and **Data Science**  and **Data Visualization** with 🐍 Python (Pytorch, Tensorflow, Sckitlearn) and Matlab
+- ⚡ Fun fact: I'm Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! Beside's developing stuff 👩‍💻, I enjoy listening music 🎧 and traveling 🏝️🗻.
+- 📫 How to reach me: milaanparmar9@gmail.com
+
+[<img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8"/>](https://www.linkedin.com/in/milaanparmar/)  [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22">](https://milaan9.github.io/)
+
+
+
+<!--[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/+79041599690) -->
+
+**Languages and Tools:**
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="25" src="https://www.clipartmax.com/png/small/349-3490136_anaconda-icon-anaconda-python-icon.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
+<code><img height="25" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+<!--[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]()-->
+
+<p align="center"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Pratik's Github readme stats">
+<img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9" />
+</p>
+<br>
+
+
+<div align="center">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h3>
+
+[<img align="center" alt="LinkedIn" width="25px"
+src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/)
+[<img align="center" alt="Instagram" width="25px"
+src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>](https://www.instagram.com/milaanparmar9/)
+[<img align="center" alt="facebook" width="25px"
+src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"/>](https://www.facebook.com/milaanparmar)
+[<img align="center" alt="Gmail" width="25px"
+src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>](mailto:milaanparmar9@gmail.com)
+[<img align="center" alt="GitHub" width="25px"
+src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan9)
+
+</div>
+
 
 <!--
-**gigishab/gigishab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[<img align='left' alt='Django' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](#)
+[<img align='left' alt='AWS' width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"/>](#)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>](#)
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>](#)
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](#)
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](#)
 -->
-<div align="center"> <h1 align="center"> Hi There! I am a Data Engineer/Analyst  ðŸ‘‹ </h1> </div>
-<b>Hi, My name is Shabnam Thakur . I am a data professional.<b>
-
-<p></p>
-<div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
-
-<b>I have experience using these data analysis tools.<b>
-
-<p align="center">
-<a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-09/ECX-1909_Hero_Kafka_600x400%402x-1.webp" alt="Kafka" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://editor.analyticsvidhya.com/uploads/526181_kPKoXmHBDmGthbah-0549A.png" alt="Hadoop" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" height="60"/> </a>
-
-</p>
-
-
-<div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
-
-<b>I have also experience using these data visualization tools.<b>
-
-<p align="center">
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="Tableau" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
-</p>
-
-<div align="center"> <h1 align="center"> ðŸ‘¨ SOCIAL ðŸ‘© </h1> </div>
-<b>Lets connect</b>
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shabnam-thakur-262a95183/"> 
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://public.tableau.com/app/profile/shabnam.thakur3456/vizzes">
-  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
-</a>
-
-<a href="mailto:shabrajput1000@gmail.com ">  
-  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
-</a>
-
-</p>
-
-
-
+<!--
+- 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf)
+![Sudhanshu Prajapati's github stats](https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu456&layout=compact)](https://github.com/sudhanshu456)
+- 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
+-->
